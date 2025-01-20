@@ -5,7 +5,7 @@ import cloudinary from "cloudinary";
 import cors from "cors";
 import axios from "axios";
 
-dotenv.config();
+dotenv.config(); 
 
 cloudinary.v2.config({
   cloud_name: process.env.CLOUD_NAME,
