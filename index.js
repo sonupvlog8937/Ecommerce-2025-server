@@ -15,7 +15,7 @@ cloudinary.v2.config({
 
 const app = express();
 
-const url = `https://ecommerce-2025-server.onrender.com`;
+const url = `https://ecommerce-2025-server-9vrf.onrender.com/`;
 const interval = 30000;
 
 function reloadWebsite() {
